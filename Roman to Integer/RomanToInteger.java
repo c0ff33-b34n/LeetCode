@@ -1,4 +1,4 @@
-class Solution {
+class RomanToInteger {
     public int romanToInt(String s) {
         int level = 1;
         int solution = 0;
